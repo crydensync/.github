@@ -7,7 +7,7 @@
 [![GitHub Org](https://img.shields.io/badge/GitHub-CrydenSync-6366f1?style=flat-square&logo=github)](https://github.com/crydensync)
 [![Go Reference](https://img.shields.io/badge/Go-Reference-00ADD8?style=flat-square&logo=go)](https://pkg.go.dev/github.com/crydensync/cryden)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Twitter Follow](https://img.shields.io/twitter/follow/crydensync?style=social)](https://twitter.com/crydensync)
+[![Twitter Follow](https://img.shields.io/twitter/follow/crydensync?style=social)](https://x.com/CrydenSync)
 
 </div>
 
@@ -154,9 +154,9 @@ Look for issues labeled:
 
 | Type | Link | Purpose |
 |------|------|---------|
-| **WhatsApp Channel** | [Join Channel](https://whatsapp.com/channel/your-channel-id) | 📢 Announcements only (1-way) |
-| **WhatsApp Group** | [Join Group](https://chat.whatsapp.com/your-group-id) | 💬 Discussions, help, contributions (2-way) |
-| **Discord** | [Join Discord](https://discord.gg/crydensync) | 🎙️ Voice calls, technical deep dives |
+| **WhatsApp Channel** | [Join Channel](https://chat.whatsapp.com/IkPWOYlnr4DI6zTzEC0g8m) | 📢 Announcements only (1-way) |
+| **WhatsApp Group** | [Join Group](https://chat.whatsapp.com/IkPWOYlnr4DI6zTzEC0g8m) | 💬 Discussions, help, contributions (2-way) |
+| **Discord** | [Join Discord](https://discord.gg/xUCYcDBAWx) | 🎙️ Voice calls, technical deep dives |
 | **GitHub** | [Discussions](https://github.com/crydensync/cryden/discussions) | 📝 Long-form technical discussions |
 
 ### Which One to Join?
@@ -168,7 +168,7 @@ Look for issues labeled:
 
 ### Direct WhatsApp Chat with Maintainers
 
-Need help? Chat directly: [Ask on WhatsApp](https://wa.me/+2348028420932?text=I%20need%20help%20with%20CrydenSync)
+Need help? Chat directly: [Ask on WhatsApp](https://wa.me/+2347075937777?text=I%20need%20help%20with%20CrydenSync)
 
 > Built in Nigeria. For African developers. Welcoming the world.
 ---
